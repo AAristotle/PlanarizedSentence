@@ -10,7 +10,19 @@ transformers=4.5.1
 gensim=4.1.2
 scikit-learn=1.0.1
 prettytable=2.4.0
+cudatoolkit=11.1
 ```
+
+## Dataset
+- [ACE 2004](https://catalog.ldc.upenn.edu/LDC2005T09)
+- [ACE 2005](https://catalog.ldc.upenn.edu/LDC2006T06)
+- [GENIA](http://www.geniaproject.org/genia-corpus)
+- [KBP 2017](https://catalog.ldc.upenn.edu/LDC2017D55)
+- [NNE](https://aclanthology.org/P19-1510.pdf)
+- [CoNLL 2003](https://www.clips.uantwerpen.be/conll2003/ner/)
+- [Resume]
+
+
 
 ## Running the Code
 ```bash
