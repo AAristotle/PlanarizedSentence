@@ -18,3 +18,4 @@ $ python main.py
 ## References
 * Li J, Fei H, Liu J, et al. Unified named entity recognition as word-word relation classification[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2022, 36(10): 10965-10973.
 * Shen Y, Ma X, Tan Z, et al. Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition[C]//Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021: 2782-2794.
+* Chen, Y., Wu, L., Zheng, Q. et al. A Boundary Regression Model for Nested Named Entity Recognition. Cogn Comput (2022). https://doi.org/10.1007/s12559-022-10058-8
