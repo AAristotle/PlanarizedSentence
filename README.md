@@ -7,6 +7,9 @@ Source code for : Planarized Sentence Representation for Nested Named Entity Rec
 python=3.7
 pytorch=1.8.0
 transformers=4.5.1
+gensim=4.1.2
+scikit-learn=1.0.1
+prettytable=2.4.0
 ```
 
 ## Running the Code
