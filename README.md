@@ -22,7 +22,7 @@ cudatoolkit=11.1
 - [KBP 2017](https://catalog.ldc.upenn.edu/LDC2017D55)
 - [NNE](https://aclanthology.org/P19-1510.pdf)
 - [CoNLL 2003](https://www.clips.uantwerpen.be/conll2003/ner/)
-- [Resume]
+- [Resume](https://github.com/AAristotle/PlanarizedSentence/tree/main/data/resume-zh)
 
 
 
