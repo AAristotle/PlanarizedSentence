@@ -33,11 +33,12 @@ cudatoolkit=11.1
 "ner": [{"index": [16], "type": "DNA"}, 
 {"index": [4, 5, 6, 7, 8], "type": "DNA"}, 
 {"index": [24, 25, 26], "type": "DNA"}, 
-{"index": [19, 20], "type": "DNA"}
-]
+{"index": [19, 20], "type": "DNA"}]
+}
 ]
 
 ```
+Due to the license of LDC, we can't directly release our preprocessed datasets of ACE2004, ACE2005, KBP17, and NNE.
 
 ## Running the Code
 ```bash
