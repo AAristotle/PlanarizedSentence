@@ -25,6 +25,19 @@ cudatoolkit=11.1
 - [Resume](https://github.com/AAristotle/PlanarizedSentence/tree/main/data/resume-zh)
 
 
+### Data format
+```json
+[
+{"sentence": 
+  ["There", "is", "a", "single", "methionine", "codon-initiated", "open", "reading", "frame", "of", "1,458", "nt", "in", "frame", "with", "a", "homeobox", "and", "a", "CAX", "repeat", ",", "and", "the", "open", "reading", "frame", "is", "predicted", "to", "encode", "a", "protein", "of", "51,659", "daltons."], 
+"ner": [{"index": [16], "type": "DNA"}, 
+{"index": [4, 5, 6, 7, 8], "type": "DNA"}, 
+{"index": [24, 25, 26], "type": "DNA"}, 
+{"index": [19, 20], "type": "DNA"}
+]
+]
+
+```
 
 ## Running the Code
 ```bash
