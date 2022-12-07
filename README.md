@@ -4,15 +4,16 @@ Source code for : Planarized Sentence Representation for Nested Named Entity Rec
 **We will upload the code one after another.**
 
 ## Installation
-### environment
+### Environment
 ```bash
 python=3.7
 pytorch=1.8.0
-transformers=4.5.1
-gensim=4.1.2
-scikit-learn=1.0.1
-prettytable=2.4.0
+transformers=4.24.0
+gensim=4.2.0
+scikit-learn=1.0.2
+prettytable=3.5.0
 cudatoolkit=11.1
+numpy=1.21.5
 ```
 
 ## Dataset
@@ -28,13 +29,16 @@ cudatoolkit=11.1
 ### Data format
 ```json
 [
-{"sentence": 
+  {
+  "sentence": 
   ["There", "is", "a", "single", "methionine", "codon-initiated", "open", "reading", "frame", "of", "1,458", "nt", "in", "frame", "with", "a", "homeobox", "and", "a", "CAX", "repeat", ",", "and", "the", "open", "reading", "frame", "is", "predicted", "to", "encode", "a", "protein", "of", "51,659", "daltons."], 
-"ner": [{"index": [16], "type": "DNA"}, 
+"ner": [
+{"index": [16], "type": "DNA"}, 
 {"index": [4, 5, 6, 7, 8], "type": "DNA"}, 
 {"index": [24, 25, 26], "type": "DNA"}, 
-{"index": [19, 20], "type": "DNA"}]
-}
+{"index": [19, 20], "type": "DNA"}
+        ]
+    }
 ]
 
 ```
