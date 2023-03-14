@@ -1,7 +1,7 @@
 # PlanarizedSentence
 Source code for : Planarized Sentence Representation for Nested Named Entity Recognition
 
-![biLSTM_NER](./model.pdf)
+![model](./model.png)
 
 **We will upload the code one after another.**
 
